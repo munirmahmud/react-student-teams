@@ -20,6 +20,13 @@
 
 ## Team D
 
-##Github Necessary Commands
+## Github Necessary Commands
+
+To see the working tree status
 `git status`
+
+add changes in the working directory
+
+`git add`
+
 
