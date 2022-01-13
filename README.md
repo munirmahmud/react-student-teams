@@ -37,3 +37,43 @@ To undo changes
 To save chages in the local repository
 
 `git commit -m "Commit Message. How you recognize later"`
+
+Roll back from commit
+
+`git reset HEAD~`
+
+Restore deleted file with changes
+
+`git reset --hard`
+
+Remove specific file & stage. It does not remove chagned file
+
+`git rm "your file name"` 
+
+Remove & stage file together
+
+`git rm --cached your file name`
+
+Remove folder & nested folder
+
+`git rm -r "folder name"`
+
+See all braches
+
+`git branch`
+
+Create new branch
+
+`git branch Branch Name`
+
+Create new branch & switch to the new branch
+
+`git checkout -b Branch Name`
+
+Merge branch with master/main
+
+`git merge main -m "simple message"`
+
+fetch & merge
+
+`git pull`
