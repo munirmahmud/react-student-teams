@@ -19,3 +19,7 @@
   4. Rakib Hossain
 
 ## Team D
+
+##Github Necessary Commands
+`git status`
+
