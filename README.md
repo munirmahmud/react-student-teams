@@ -23,10 +23,17 @@
 ## Github Necessary Commands
 
 To see the working tree status
+
 `git status`
 
 add changes in the working directory
 
-`git add`
+`git add .`
 
+To undo changes
 
+`git reset`
+
+To save chages in the local repository
+
+`git commit -m "Commit Message. How you recognize later"`
