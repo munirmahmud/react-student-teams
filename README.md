@@ -38,6 +38,10 @@ To save chages in the local repository
 
 `git commit -m "Commit Message. How you recognize later"`
 
+To publish repository
+
+`git push`
+
 Roll back from commit
 
 `git reset HEAD~`
