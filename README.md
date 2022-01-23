@@ -23,6 +23,10 @@
 
 ## Github Necessary Commands
 
+Git initialization
+
+`git init`
+
 To see the working tree status
 
 `git status`
